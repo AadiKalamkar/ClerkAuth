@@ -41,6 +41,8 @@ const Home = () => {
         </svg>
       </div>
 
+
+
       {/* Tailwind Animations */}
       <style>
         {`
